@@ -3,23 +3,12 @@ I'm a 26 years old brazilian from São Paulo but living in a city called Santa B
 
 ## Contact me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/rafael-pequeno/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rafael-pequeno/)
 
 ## Skills
 
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=React)
-![JEST](https://img.shields.io/badge/JEST-000?style=for-the-badge&logo=JEST)
-![REDUX](https://img.shields.io/badge/REDUX-000?style=for-the-badge&logo=REDUX)
-![DOCKER](https://img.shields.io/badge/DOCKER-000?style=for-the-badge&logo=DOCKER)
-![MYSQL](https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=MYSQL)
-![EXPRESS](https://img.shields.io/badge/EXPRESS-000?style=for-the-badge&logo=EXPRESS)
-![NODE.JS](https://img.shields.io/badge/NODE.JS-000?style=for-the-badge&logo=NODE.JS)
-![SEQUELIZE](https://img.shields.io/badge/SEQUELIZE-000?style=for-the-badge&logo=SEQUELIZE)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,mysql,java,git,express,docker,sequelize)](https://skillicons.dev)
+
 
 
 ### Top projects
