@@ -13,7 +13,7 @@ I'm a 26 years old brazilian from São Paulo but living in a city called Santa B
 
 ### Top projects
 
-[![TFC](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpequeno&repo=rafael-pequeno-trybewallet&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelpequeno/tfc)
+[![TFC](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpequeno&repo=tfc&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelpequeno/tfc)
 
 [![Recipes App](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpequeno&repo=recipes-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelpequeno/recipes-app)
 
