@@ -13,9 +13,9 @@ I'm a 26 years old brazilian from São Paulo but living in a city called Santa B
 
 ### Top projects
 
-[![Recipes App](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpequeno&repo=recipes-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelpequeno/recipes-app)
+[![TFC](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpequeno&repo=rafael-pequeno-trybewallet&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelpequeno/tfc)
 
-[![TrybeWallet](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpequeno&repo=rafael-pequeno-trybewallet&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelpequeno/rafael-pequeno-trybewallet)
+[![Recipes App](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpequeno&repo=recipes-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelpequeno/recipes-app)
 
 
 <!--
