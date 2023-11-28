@@ -17,6 +17,10 @@ I'm a 26 years old brazilian from São Paulo but living in a city called Santa B
 
 [![Recipes App](https://github-readme-stats.vercel.app/api/pin/?username=rafaelpequeno&repo=recipes-app&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelpequeno/recipes-app)
 
+### Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpequeno&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **rafaelpequeno/rafaelpequeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
