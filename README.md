@@ -7,7 +7,7 @@ I'm a 26 years old brazilian from São Paulo but living in a city called Santa B
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,mysql,java,git,express,docker,sequelize)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react,react-native,mysql,java,git,express,docker,sequelize)](https://skillicons.dev)
 
 
 
